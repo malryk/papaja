@@ -1,0 +1,9 @@
+owner: rykowmal
+hostname: papaja
+username: gosha
+description: Ku chwale papji 
+log:
+    2017-11-11: >
+        Switched RPI2 with RPI3.
+    2017-11-11: >
+        There is something wrong with the PWM hat and the LEDs.                     
