@@ -1,0 +1,23 @@
+camera_matrix:
+  cols: 3
+  data: [368.2399430492088, 0.0, 296.35863056684934, 0.0, 371.1913444739663, 240.6221846104393,
+    0.0, 0.0, 1.0]
+  rows: 3
+camera_name: papaja/camera_node
+distortion_coefficients:
+  cols: 5
+  data: [-0.29018502025313947, 0.08812856027780473, 0.00491166445485997, 0.0024860136119703585,
+    0.0]
+  rows: 1
+distortion_model: plumb_bob
+image_height: 480
+image_width: 640
+projection_matrix:
+  cols: 4
+  data: [290.4789733886719, 0.0, 297.8318387519539, 0.0, 0.0, 320.7303466796875, 244.8900377992104,
+    0.0, 0.0, 0.0, 1.0, 0.0]
+  rows: 3
+rectification_matrix:
+  cols: 3
+  data: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+  rows: 3
